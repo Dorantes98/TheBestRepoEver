@@ -4,4 +4,4 @@
 Dominick Dorantes
 
 ## What does it do?
-running this code will make you awesome
+Running this code will make you awesome
